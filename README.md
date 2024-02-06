@@ -2,7 +2,7 @@
 
 (*last update : Feb 2024*)
 
-**Location** : *Biomedtech Facilities*, prototyping platform - mechanical workshop, room : P346, 45 rue des Saints-Pères, 75006 Paris.
+**Location** : *Biomedtech Facilities*, prototyping platform - mechanical workshop; room : P346; 45 rue des Saints-Pères; 75006 Paris.
 
 Find below information about the laser cutting possibilites of the Biomedtech prototyping platform and how to use it. In particular, this to-do contains practical information on how to prepare a laser cut. 
 
