@@ -1,4 +1,4 @@
-# Instructions about how to use the Laser Cutter 
+# Instructions on how to use the Laser Cutter 
 
 (*last update : Feb 2024*)
 
@@ -9,7 +9,7 @@ Find below information about the laser cutting possibilites of the Biomedtech pr
 For all question and usage requests, please contact [Michael Graupner](maito:michael.graupner@u-paris.fr). 
 
 
-**Content of this how-to documentation**
+**Content of this documentation**
 
 [**1. Equipment and specs**](#equipment-and-specs)
 
@@ -31,11 +31,11 @@ The work surface area of this laser model is  **610 x 457 mm**and a height of **
 
 Find  [here](https://www.ulsinc.com/material/materials-library) a the library of **materials the laser can engrave and cut**. 
 
-[Here](misc/Brochure_ULS_VLS4.60.pdf) is the brochure (.pdf format) of the VLS 4.6 model with the *system specs*. 
+[Here](misc/Brochure_ULS_VLS4.60.pdf) is the brochure (.pdf format) of the VLS 4.6 model with the **system specs**. 
 
-[Here](misc/VLS460_Laser_Cutter_Manual.pdf) is the *Laser Cutter Manual*. 
+[Here](misc/VLS460_Laser_Cutter_Manual.pdf) is the **Laser Cutter Manual** (.pdf format). 
 
-[link](misc/Universal-Laser-Engraver-Settings-1_13_2020.pdf) are some information on **laser settings** for engraving and cutting for different materials. 
+[Here](misc/Universal-Laser-Engraver-Settings-1_13_2020.pdf) are some information on **laser settings** for engraving and cutting for different materials (.pdf format). 
 
 
 -----
@@ -52,7 +52,7 @@ Find  [here](https://www.ulsinc.com/material/materials-library) a the library of
 
 1. The account at the computer in the mechanical workshop is : <br>
 *user* : JEGOUZODO7060\Protoypage  <br>
-*pwd* : Protoypage
+*pwd* : **** (ask Michael)
 2. The software controlling the laser is called **UCP**. 
 3. Import the vector drawing. 
 4. Make sure that the cutting setting match the material and its thickness. The software contains a library of default setting for different materials. 
