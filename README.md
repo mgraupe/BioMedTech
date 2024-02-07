@@ -28,21 +28,19 @@ The laser cutter model present in the platform is the **Universal Laser Systems 
 
 The work surface area of this laser model is  **610 x 457 mm**and a height of **229 mm**. In turn, inital material dimensions cannot exceed those measures. 
 
+Resources and specs of the laser cutter : <br> 
 
-Find  [here](https://www.ulsinc.com/material/materials-library) a the library of **materials the laser can engrave and cut**. 
-
-[Here](misc/Brochure_ULS_VLS4.60.pdf) is the brochure (.pdf format) of the VLS 4.6 model with the **system specs**. 
-
-[Here](misc/VLS460_Laser_Cutter_Manual.pdf) is the **Laser Cutter Manual** (.pdf format). 
-
-[Here](misc/Universal-Laser-Engraver-Settings-1_13_2020.pdf) are some information on **laser settings** for engraving and cutting for different materials (.pdf format). 
+* The library of **materials the laser can cut and engrave** :  [pdf](https://www.ulsinc.com/material/materials-library)
+* The brochure of the Universal Laser Systems model VLS 4.6 model with the **system specs** : [pdf](misc/Brochure_ULS_VLS4.60.pdf)
+* The **Laser Cutter Manual** : [pdf](misc/VLS460_Laser_Cutter_Manual.pdf). 
+* Some information on **laser settings** for engraving and cutting for different materials : [pdf](misc/Universal-Laser-Engraver-Settings-1_13_2020.pdf).  
 
 
 -----
 #### How to prepare a laser cut
 
 1. **The cut or the engraving is defined by a vector figure :** Such a figure can be generated with a vector graphic software (examples are Adobe® Illustrator®, CorelDRAW®, SOLIDWORKS, AutoCAD, Inkscape). We are using [Inkscape](https://inkscape.org/) in the lab, which is open source and versatile. <br><br>
-2. **Generate a drawing which outlines your desired laser cut.** The color of the line defines the laser power setting, **red lines** (rgb 255,0,0 ; html color #ff0000ff) define default cuts. The **thickness** of the line should set to **0.025 mm (0.001 inches)**. <br> **Attention :** Make sure that the outline fits the physical dimension of the to-be-cut-material. Position the drawing in the upper left corner of the drawing page. Make sure that the drawing page does not exceed the work surface area of the laser model (610 x 457 mm). <br>
+2. **Generate a drawing which outlines your desired laser cut.** The color of the line defines the laser power setting, **red lines** (rgb 255,0,0 ; html color #ff0000ff) define default cuts. The **thickness** of the line should be set to **0.025 mm (0.001 inches)**. <br> **Attention :** Make sure that the outline fits the physical dimension of the to-be-cut-material. Position the drawing in the upper left corner of the drawing page. Make sure that the drawing page does not exceed the work surface area of the laser model (610 x 457 mm). <br>
    Here is an example drawing as [svg](misc/mirrorShape.svg) or [pdf](misc/mirrorShape.pdf) file. 
 2. **Export a vector drawing as pdf file** and bring it ot the mechanical workshop on a USB stick or email the pdf to [Michael Graupner](mailto:michael.graupner@u-paris.fr). 
 
