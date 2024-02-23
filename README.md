@@ -53,7 +53,7 @@ The work surface area of this laser model is  **610 x 457 mm** and a height of *
 1. **The cut or the engraving is defined by a vector figure :** Such a figure can be generated with a vector graphic software (examples are Adobe Illustrator, CorelDRAW, SOLIDWORKS, AutoCAD, Inkscape). We are using [Inkscape](https://inkscape.org/) in the lab, which is open source and versatile. <br><br>
 2. **Generate a drawing which outlines your desired laser cut.** The color of the line defines the laser power setting, **red lines** (rgb 255,0,0 ; html color #ff0000ff) define default cuts. The **thickness** of the line should be set to **0.025 mm (0.001 inches)**. <br> **Attention :** Make sure that the outline fits the physical dimension of the to-be-cut-material. Position the drawing in the upper left corner of the page. Make sure that the drawing page does not exceed the work surface area of the laser model (610 x 457 mm). <br>
    Here is an *example drawing* as [svg](misc/mirrorShape.svg) or [pdf](misc/mirrorShape.pdf) file. 
-3. **Export a vector drawing as pdf file** and bring it ot the mechanical workshop on a USB stick or email the pdf to [Michael Graupner](mailto:michael.graupner@u-paris.fr) with the subject line [laser cutter request]. 
+3. **Export a vector drawing as pdf file** and bring it ot the mechanical workshop on a USB stick or email the pdf to [Michael Graupner](mailto:michael.graupner@u-paris.fr) with the subject line **[laser cutter request]**. 
 
 ----
 
