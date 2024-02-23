@@ -75,6 +75,6 @@ Resources of the 3D printer : <br>
 ### 2.2 How to prepare a 3D print
 
 1. **Conceive and build a 3D model :** Create a 3D model of your design using a software, taking into account the desired dimensions and specifications. Suitable 3D modeling software suites are FreeCad, Blender, Autodesk Fusion 360, or Tinkercad. We are using [FreeCad](https://www.freecad.org/) in the lab, which is open source and versatile. <br><br>
-2. **Export a 3D model as .stl file** and bring it ot the mechanical workshop on a USB stick or email it with the subject line **[3D printer request]** to [Brandon Stell](mailto:brandon.stell@u-paris.fr). 
+2. **Export a 3D model as .stl file** and email it with the subject line **[3D printer request]** to [Brandon Stell](mailto:brandon.stell@u-paris.fr). 
 
 
