@@ -1,6 +1,7 @@
 # Instructions pour préparer votre modèle pour la découpe laser ou l'impression 3D
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
+[![pt-br](https://img.shields.io/badge/lang-fr-green.svg)](README.fr.md)
 
-[[English](README.md) | [French](README_fr.md)]
 
 (*dernière mise à jour : février 2024*)
 

@@ -1,5 +1,8 @@
 # Instructions on how to prepare your model for the Laser Cutter or 3D printer
 
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
+[![pt-br](https://img.shields.io/badge/lang-fr-green.svg)](README.fr.md)
+
 (*last update : Feb 2024*)
 
 **Location** : *Biomedtech Facilities*, prototyping platform - mechanical workshop; room : P346; 45 rue des Saints-Pères; 75006 Paris.
