@@ -21,7 +21,7 @@ For all question and usage requests regaring **3D printing**, please contact [Br
 
 [**2. 3D printer**](#2-3d-printer)
 
-[2.1 Equipment and specs](#21-how-to-perform-laser-cut)
+[2.1 Equipment and specs](#21-equipment-and-specs)
 
 [2.2 How to prepare a 3D print](#22-how-to-prepare-a-3d-print)
 
