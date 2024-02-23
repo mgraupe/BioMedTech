@@ -8,8 +8,8 @@ Find below information about the 3D printing and  laser cutting facilities of th
 
 Please remember that the platform opened in downgraded mode for the time until a new mechanical engineer is recruited. We are happy to provide supervised access, help and suggestions but cannot be actively involved in the conception and design of your projects. 
 
-For all question and usage requests regaring **laser cutting**, please contact [Michael Graupner](mailto:michael.graupner@u-paris.fr). <br>
-For all question and usage requests regaring **3D printing**, please contact [Brandon Stell](mailto:brandon.stell@u-paris.fr).
+For all question and usage requests regaring **laser cutting**, please contact [Michael Graupner](mailto:michael.graupner@u-paris.fr) with the subjet line **[laser cutter request]**. <br>
+For all question and usage requests regaring **3D printing**, please contact [Brandon Stell](mailto:brandon.stell@u-paris.fr) with the subject line **[3D printer request]**.
 
 **Content of this documentation**
 
@@ -41,7 +41,7 @@ The work surface area of this laser model is  **610 x 457 mm** and a height of *
 
 **Resources and specs of the laser cutter :** <br> 
 
-* The library of **materials the laser can cut and engrave** :  [pdf](https://www.ulsinc.com/material/materials-library)
+* The library of **materials the laser can cut and engrave** :  [website](https://www.ulsinc.com/material/materials-library)
 * The brochure of the Universal Laser Systems model VLS 4.6 model with the **system specs** : [pdf](misc/Brochure_ULS_VLS4.60.pdf)
 * The **Laser Cutter Manual** : [pdf](misc/VLS460_Laser_Cutter_Manual.pdf). 
 * Some information on **laser settings** for engraving and cutting for different materials : [pdf](misc/Universal-Laser-Engraver-Settings-1_13_2020.pdf).  
@@ -53,7 +53,7 @@ The work surface area of this laser model is  **610 x 457 mm** and a height of *
 1. **The cut or the engraving is defined by a vector figure :** Such a figure can be generated with a vector graphic software (examples are Adobe Illustrator, CorelDRAW, SOLIDWORKS, AutoCAD, Inkscape). We are using [Inkscape](https://inkscape.org/) in the lab, which is open source and versatile. <br><br>
 2. **Generate a drawing which outlines your desired laser cut.** The color of the line defines the laser power setting, **red lines** (rgb 255,0,0 ; html color #ff0000ff) define default cuts. The **thickness** of the line should be set to **0.025 mm (0.001 inches)**. <br> **Attention :** Make sure that the outline fits the physical dimension of the to-be-cut-material. Position the drawing in the upper left corner of the page. Make sure that the drawing page does not exceed the work surface area of the laser model (610 x 457 mm). <br>
    Here is an *example drawing* as [svg](misc/mirrorShape.svg) or [pdf](misc/mirrorShape.pdf) file. 
-3. **Export a vector drawing as pdf file** and bring it ot the mechanical workshop on a USB stick or email the pdf to [Michael Graupner](mailto:michael.graupner@u-paris.fr). 
+3. **Export a vector drawing as pdf file** and bring it ot the mechanical workshop on a USB stick or email the pdf to [Michael Graupner](mailto:michael.graupner@u-paris.fr) with the subject line [laser cutter request]. 
 
 ----
 
@@ -70,11 +70,11 @@ Important for the conception of models is the maximal build volumne of this prin
 
 Resources of the 3D printer : <br> 
 
-* The **user manual** :  [pdf](misc/EN%20-%20Ultimaker%202%20Connect%20-%20User%20manual.pdf)
+* The **user manual** :  [pdf](misc/EN-Ultimaker_2_Connect-User_manual.pdf)
 
 ### 2.2 How to prepare a 3D print
 
 1. **Conceive and build a 3D model :** Create a 3D model of your design using a software, taking into account the desired dimensions and specifications. Suitable 3D modeling software suites are FreeCad, Blender, Autodesk Fusion 360, or Tinkercad. We are using [FreeCad](https://www.freecad.org/) in the lab, which is open source and versatile. <br><br>
-2. **Export a 3D model as .stl file** and bring it ot the mechanical workshop on a USB stick or email the stl file to [Brandon Stell](mailto:brandon.stell@u-paris.fr). 
+2. **Export a 3D model as .stl file** and bring it ot the mechanical workshop on a USB stick or email it with the subject line **[3D printer request]** to [Brandon Stell](mailto:brandon.stell@u-paris.fr). 
 
 
